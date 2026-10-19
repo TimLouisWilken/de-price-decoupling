@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# third-party dataset received privately from FlexPower - not redistributed
+data/external/
