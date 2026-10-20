@@ -49,5 +49,8 @@ results/         daily.csv, yearly.csv, season_ratio.csv, figures/
 ## Limitations / next steps
 HL definition assumed; no attribution to gas price, residual load or renewable share yet (planned: regression HL ~ gas, RES share, residual load); Germany only – FR, AT, NL and GB are in the FlexPower file but not reconstructed here.
 
+## Documentation
+See `docs/PROJECT_LOG.md` for the step-by-step record of what was done.
+
 ## Licence
 Code: MIT (see `LICENSE`). Price data: CC BY 4.0, © Bundesnetzagentur | SMARD.de via Energy-Charts.
