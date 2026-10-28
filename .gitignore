@@ -2,3 +2,4 @@
 __pycache__/
 # third-party dataset received privately from FlexPower - not redistributed
 data/external/
+docs/PROJECT_LOG.md
